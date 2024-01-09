@@ -11,7 +11,7 @@ Flask offers suggestions, but doesn't enforce any dependencies or project layout
 Install and update using [pip](https://pip.pypa.io/en/stable/getting-started/):
 
 ```bash
-$ pip install -U Flask
+pip install -U Flask
 ```
 
 ## A Simple Example
@@ -30,6 +30,6 @@ def hello():
 Run the application:
 
 ```bash
-$ flask run
+flask run
 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
