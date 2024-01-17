@@ -1,35 +1,31 @@
-# Coding 4 All #
 
-## Flask
+# Coding 4 All
 
-Flask is a lightweight [WSGI](https://wsgi.readthedocs.io/) web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around [Werkzeug](https://werkzeug.palletsprojects.com/) and [Jinja](https://jinja.palletsprojects.com/) and has become one of the most popular Python web application frameworks.
+## Want 2 Code?
 
-Flask offers suggestions, but doesn't enforce any dependencies or project layout. It is up to the developer to choose the tools and libraries they want to use. There are many extensions provided by the community that make adding new functionality easy.
+Are you a coder looking for a new project? New to coding? Looking to meet fellow coders? 
 
-## Installing
+Join us at **Coding 4 All** !
 
-Install and update using [pip](https://pip.pypa.io/en/stable/getting-started/):
+This is a recurring program dedicated to creating a safe and inclusive environment for coders of all skill levels. Engage in collaborative projects, pursue individual coding endeavors, and connect with a community of like-minded individuals.
 
-```bash
-pip install -U Flask
-```
+### Who is this for?
 
-## A Simple Example
+This event prioritizes all marginalized genders, including but not limited to trans women, cis women, trans men, non-binary, intersex, gender nonconforming, two-spirit, and questioning folx. We aim to help bring opportunity and gender parity to all those traditionally excluded from the tech industry.
 
-```bash
-# save this as app.py
-from flask import Flask
+### Recommended for:
+- Ages 18 and up
 
-app = Flask(__name__)
+### Event Details
+- **Date**: Tuesday, February 6
+- **Time**: 6:00 PM to 7:30 PM
+- **Location**: Central Library, 710 W. César Chávez St., Innovation Lounge (5th floor)
 
-@app.route("/")
-def hello():
-    return "Hi, how are you?"
-```
+### Areas of Interest
+- Data Science
+- Web Development
+- App Development
+- Digital Art
+- Backend/Databases
 
-Run the application:
-
-```bash
-flask run
-* Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-```
+Join us to explore, learn, and grow in the world of coding!
