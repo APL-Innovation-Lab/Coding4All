@@ -3,5 +3,6 @@
 ## How to set up your environment
 ```
 pip install flask
+npm install 
 flask run
 ```
