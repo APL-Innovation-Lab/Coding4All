@@ -11,7 +11,7 @@ from datetime import datetime
 now = datetime.now()
 
 # Format the current date and time
-current_time = now.strftime("%H:%M:%S")
+current_time = now.strftime("%I:%M:%S")
 
 # Print the current date and time
 print("Current Time =", current_time)
@@ -19,13 +19,12 @@ print("Current Time =", current_time)
 # Instantiate the "Tk" class
 # This means we want to use tkinter to make a window
 root = Tk()
+width=1000
+height=500
 
 # Make a "frame"
-frm = ttk.Frame(root, padding=10)
-frm.grid()
-label = ttk.Label(frm, text=current_time)
-label.grid(column=0, row=0)
-ttk.Button(frm, text="Quit", command=root.destroy,).grid(column=1, row=0)
+canvas = Canvas(root, width=width, height=height)
+label = canvas.create_text( width/2, height/2, text=current_time, font=("Arial", 150))
 
 # Create a function to update the time
 def update_time():
@@ -33,10 +32,11 @@ def update_time():
     now = datetime.now()
 
     # format the current time
-    current_time = now.strftime("%H:%M:%S")
+    current_time = now.strftime("%I:%M:%S")
 
     # update the label with the current time
-    label.config(text=current_time)
+    canvas.itemconfig(label,text=current_time)
+    canvas.pack(anchor=CENTER)
 
     # run itself again after 1000 ms
     root.after(1000, update_time)
