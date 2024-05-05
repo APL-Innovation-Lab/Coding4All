@@ -1,0 +1,17 @@
+#main-area {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#main-area h1 {
+    padding: 50px;
+    background-color: #5f9ea0;
+    color: salmon;
+}
+
+#main-area img {
+    width: 40%;
+    border: 10px dashed #5f9ea0
+}
