@@ -15,3 +15,14 @@
     width: 40%;
     border: 10px dashed #5f9ea0
 }
+
+#main-area a {
+    color: #5f9ea0;
+    margin: 10px;
+}
+
+#main-area button {
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
