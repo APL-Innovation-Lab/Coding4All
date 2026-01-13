@@ -1,6 +1,6 @@
 # Welcome to Coding Club!
 
-# Today's Slideshow: [P5JS Slides](https://docs.google.com/presentation/d/1tnxj3gFBqVE1GiAxAi45qwdJK0GWj_jpvJLNRrfytIc/edit?usp=sharing)
+# Today's Slideshow: [Circle Game Slides](https://docs.google.com/presentation/d/1MZyM1vXWwQ3W-JINjWVrGLt52WknaBTDz06ZiVSfUNk/edit?usp=sharing)
 
 # Old Slideshow Links
 * [Introduction / Installation Slides](https://docs.google.com/presentation/d/1T-Gxqmrc1VW4WTQiBOzuDgxkDBdeeFu5wCkhd3xNiD4/edit?usp=sharing)
