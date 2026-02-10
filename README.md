@@ -1,6 +1,6 @@
 # Welcome to Coding Club!
 
-# Today's Slideshow: [Calculator Debug Exercise] (https://docs.google.com/presentation/d/1B_PFQkzhPPW5u8QIOFsNk_edW2h19bunEWLaLiYcelo/edit?usp=sharing)
+# Today's Slideshow: [Calculator Debug Exercise](https://docs.google.com/presentation/d/1B_PFQkzhPPW5u8QIOFsNk_edW2h19bunEWLaLiYcelo/edit?usp=sharing)
 
 # Old Slideshow Links
 * [Introduction / Installation Slides](https://docs.google.com/presentation/d/1T-Gxqmrc1VW4WTQiBOzuDgxkDBdeeFu5wCkhd3xNiD4/edit?usp=sharing)
