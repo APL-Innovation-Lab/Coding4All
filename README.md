@@ -1,6 +1,6 @@
 # Welcome to Coding Club!
 
-# Today's Slideshow: [Calculator Debug Exercise](https://docs.google.com/presentation/d/1B_PFQkzhPPW5u8QIOFsNk_edW2h19bunEWLaLiYcelo/edit?usp=sharing)
+# Today's Slideshow: [Clock exercise + AI debugging](https://docs.google.com/presentation/d/1SfWqSZrYQuz3Uvd-o4p18j2pirRGPKD-IrV9st4ePfw/edit?usp=sharing)
 
 # Old Slideshow Links
 * [Introduction / Installation Slides](https://docs.google.com/presentation/d/1T-Gxqmrc1VW4WTQiBOzuDgxkDBdeeFu5wCkhd3xNiD4/edit?usp=sharing)
@@ -14,3 +14,4 @@
 * [Javascript Slides](https://docs.google.com/presentation/d/123TiDCCX7hHDARb_i_LCzrUve9fzcDXHnK1aTVicsqA/edit?usp=sharing)
 * [Women's Month Slides](https://docs.google.com/presentation/d/1ccqEIvJxZe7SZNF0D_5Yx-CvxLH3wv9lbkKHqxjTFR0/edit?usp=sharing)
 * [Circle Game Slides](https://docs.google.com/presentation/d/1MZyM1vXWwQ3W-JINjWVrGLt52WknaBTDz06ZiVSfUNk/edit?usp=sharing)
+* [Calculator Debug Exercise](https://docs.google.com/presentation/d/1SfWqSZrYQuz3Uvd-o4p18j2pirRGPKD-IrV9st4ePfw/edit?usp=sharing)
